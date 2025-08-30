@@ -1,0 +1,16 @@
+export { default as ChickenIcon } from './ChickenIcon';
+export { default as BeefIcon } from './BeefIcon';
+export { default as EggIcon } from './EggIcon';
+export { default as TofuIcon } from './TofuIcon';
+export { default as TomatoIcon } from './TomatoIcon';
+export { default as OnionIcon } from './OnionIcon';
+export { default as GarlicIcon } from './GarlicIcon';
+export { default as BellPepperIcon } from './BellPepperIcon';
+export { default as MilkIcon } from './MilkIcon';
+export { default as CheeseIcon } from './CheeseIcon';
+export { default as ButterIcon } from './ButterIcon';
+export { default as YogurtIcon } from './YogurtIcon';
+export { default as CuminIcon } from './CuminIcon';
+export { default as PaprikaIcon } from './PaprikaIcon';
+export { default as TurmericIcon } from './TurmericIcon';
+export { default as OreganoIcon } from './OreganoIcon';
